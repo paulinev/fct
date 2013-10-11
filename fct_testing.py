@@ -45,6 +45,21 @@ def get_fcts(sort, flowreq):
             get_fcts[flowsize] = float(sum(get_fcts[flowsize]))/len(get_fcts[flowsize])
         return syn_fcts, get_fcts
 
+
+def send_data(file_in, file_out):
+    syn, get = get_fcts('type', file_in)
+    with open(file_out, 'w') as flowdata:
+        flowdata.write(file_in+"\n\n")
+        flowdata.write("Flow sizes:\n")
+        for f in sorted(syn):
+            flowdata.write(str(f)+"\n")
+        flowdata.write("\nSyn:\n")
+        for f in sorted(syn):
+            flowdata.write(str(syn[f])+"\n")
+        flowdata.write("\nGet:\n")
+        for f in sorted(get):
+            flowdata.write(str(get[f])+"\n")
+
 # Sort types: all returns combined mean of all syn_ and get_fcts, ignoring type and flow
 #         flow returns combined mean of all fcts sorted by flow
 #         type returns mean of all syn_ and get_ fcts individually, ignoring flow
