@@ -39,7 +39,11 @@ def get_fcts(sort, flowreq):
         return fcts
     elif sort == 'flow':
         return flow_fcts
-    return syn_fcts, get_fcts
+    else:
+        for flowsize in syn_fcts:
+            syn_fcts[flowsize] = float(sum(syn_fcts[flowsize]))/len(syn_fcts[flowsize])
+            get_fcts[flowsize] = float(sum(get_fcts[flowsize]))/len(get_fcts[flowsize])
+        return syn_fcts, get_fcts
 
 # Sort types: all returns combined mean of all syn_ and get_fcts, ignoring type and flow
 #         flow returns combined mean of all fcts sorted by flow
