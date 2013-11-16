@@ -1,0 +1,325 @@
+Initializing random seed 23
+Thread-4
+Thread-4  switching off for  776  ms
+Thread-3
+Thread-3  switching off for  890  ms
+Thread-5
+Thread-5  switching off for  668  ms
+Thread-6
+Thread-6  switching off for  26  ms
+Thread-2
+Thread-2  switching off for  268  ms
+Thread-7
+Thread-7  switching off for  165  ms
+Thread-1
+Thread-1  switching off for  226  ms
+Thread-8
+Thread-8  switching off for  41  ms
+Thread-9
+Thread-9  switching off for  63  ms
+Thread-0
+Thread-0  switching off for  176  ms
+Thread-1  Flow # 1  size:  398  bytes syn_fct:  975  get_fct:  60
+Thread-1  switching off for  458  ms
+Thread-2  Flow # 1  size:  564  bytes syn_fct:  942  get_fct:  69
+Thread-2  switching off for  266  ms
+Thread-7  Flow # 1  size:  67  bytes syn_fct:  1086  get_fct:  99
+Thread-7  switching off for  321  ms
+Thread-6  Flow # 1  size:  222  bytes syn_fct:  1274  get_fct:  148
+Thread-6  switching off for  291  ms
+Thread-0  Flow # 1  size:  1844  bytes syn_fct:  1134  get_fct:  159
+Thread-0  switching off for  1059  ms
+Thread-4  Flow # 1  size:  342  bytes syn_fct:  554  get_fct:  178
+Thread-4  switching off for  135  ms
+Thread-5  Flow # 1  size:  2232  bytes syn_fct:  662  get_fct:  178
+Thread-5  switching off for  427  ms
+Thread-8  Flow # 1  size:  437  bytes syn_fct:  1299  get_fct:  189
+Thread-8  switching off for  137  ms
+Thread-4  Flow # 2  size:  728  bytes syn_fct:  84  get_fct:  84
+Thread-4  switching off for  26  ms
+Thread-2  Flow # 2  size:  1135  bytes syn_fct:  83  get_fct:  83
+Thread-2  switching off for  192  ms
+Thread-8  Flow # 2  size:  311  bytes syn_fct:  92  get_fct:  92
+Thread-8  switching off for  379  ms
+Thread-7  Flow # 2  size:  791  bytes syn_fct:  98  get_fct:  97
+Thread-7  switching off for  59  ms
+Thread-4  Flow # 3  size:  425  bytes syn_fct:  104  get_fct:  104
+Thread-4  switching off for  117  ms
+Thread-6  Flow # 2  size:  991  bytes syn_fct:  99  get_fct:  98
+Thread-6  switching off for  507  ms
+Thread-1  Flow # 2  size:  162  bytes syn_fct:  70  get_fct:  70
+Thread-1  switching off for  65  ms
+Thread-7  Flow # 3  size:  87  bytes syn_fct:  99  get_fct:  99
+Thread-7  switching off for  515  ms
+Thread-2  Flow # 3  size:  79  bytes syn_fct:  88  get_fct:  88
+Thread-2  switching off for  120  ms
+Thread-1  Flow # 3  size:  285  bytes syn_fct:  94  get_fct:  94
+Thread-1  switching off for  138  ms
+Thread-4  Flow # 4  size:  729  bytes syn_fct:  93  get_fct:  93
+Thread-4  switching off for  102  ms
+Thread-8  Flow # 3  size:  305  bytes syn_fct:  80  get_fct:  80
+Thread-8  switching off for  33  ms
+Thread-2  Flow # 4  size:  3084  bytes syn_fct:  128  get_fct:  128
+Thread-2  switching off for  368  ms
+Thread-4  Flow # 5  size:  675  bytes syn_fct:  106  get_fct:  106
+Thread-4  switching off for  529  ms
+Thread-1  Flow # 4  size:  270  bytes syn_fct:  101  get_fct:  100
+Thread-1  switching off for  81  ms
+Thread-8  Flow # 4  size:  3300  bytes syn_fct:  165  get_fct:  165
+Thread-8  switching off for  269  ms
+Thread-6  Flow # 3  size:  670  bytes syn_fct:  112  get_fct:  111
+Thread-6  switching off for  872  ms
+Thread-7  Flow # 4  size:  125  bytes syn_fct:  164  get_fct:  164
+Thread-7  switching off for  7  ms
+Thread-8  Flow # 5  size:  398  bytes syn_fct:  111  get_fct:  111
+Thread-8  switching off for  348  ms
+Thread-7  Flow # 5  size:  4325  bytes syn_fct:  501  get_fct:  501
+Thread-7  switching off for  891  ms
+Thread-6  Flow # 4  size:  650  bytes syn_fct:  197  get_fct:  197
+Thread-6  switching off for  1332  ms
+Thread-8  Flow # 6  size:  4140  bytes syn_fct:  470  get_fct:  470
+Thread-8  switching off for  414  ms
+Thread-1  Flow # 5  size:  20316  bytes syn_fct:  1377  get_fct:  1377
+Thread-1  switching off for  127  ms
+Thread-8  Flow # 7  size:  357  bytes syn_fct:  156  get_fct:  156
+Thread-8  switching off for  23  ms
+Thread-7  Flow # 6  size:  181  bytes syn_fct:  148  get_fct:  148
+Thread-7  switching off for  65  ms
+Thread-8  Flow # 8  size:  460  bytes syn_fct:  147  get_fct:  147
+Thread-8  switching off for  901  ms
+Thread-6  Flow # 5  size:  215  bytes syn_fct:  126  get_fct:  126
+Thread-6  switching off for  32  ms
+Thread-6  Flow # 6  size:  618  bytes syn_fct:  117  get_fct:  117
+Thread-6  switching off for  55  ms
+Thread-6  Flow # 7  size:  665  bytes syn_fct:  124  get_fct:  124
+Thread-6  switching off for  87  ms
+Thread-6  Flow # 8  size:  398  bytes syn_fct:  162  get_fct:  162
+Thread-6  switching off for  693  ms
+Thread-8  Flow # 9  size:  4454  bytes syn_fct:  426  get_fct:  426
+Thread-8  switching off for  176  ms
+Thread-8  Flow # 10  size:  332  bytes syn_fct:  154  get_fct:  154
+Thread-8  switching off for  668  ms
+Thread-7  Flow # 7  size:  28633  bytes syn_fct:  2034  get_fct:  2034
+Thread-7  switching off for  676  ms
+Thread-6  Flow # 9  size:  4515  bytes syn_fct:  475  get_fct:  475
+Thread-6  switching off for  159  ms
+Thread-8  Flow # 11  size:  1460  bytes syn_fct:  210  get_fct:  210
+Thread-8  switching off for  354  ms
+Thread-7  Flow # 8  size:  978  bytes syn_fct:  153  get_fct:  153
+Thread-7  switching off for  81  ms
+Thread-6  Flow # 10  size:  5372  bytes syn_fct:  460  get_fct:  460
+Thread-6  switching off for  443  ms
+Thread-8  Flow # 12  size:  299  bytes syn_fct:  146  get_fct:  145
+Thread-8  switching off for  244  ms
+Thread-7  Flow # 9  size:  392  bytes syn_fct:  140  get_fct:  140
+Thread-7  switching off for  239  ms
+Thread-8  Flow # 13  size:  83  bytes syn_fct:  136  get_fct:  136
+Thread-8  switching off for  299  ms
+Thread-6  Flow # 11  size:  324  bytes syn_fct:  127  get_fct:  127
+Thread-6  switching off for  245  ms
+Thread-7  Flow # 10  size:  5188  bytes syn_fct:  448  get_fct:  448
+Thread-7  switching off for  85  ms
+Thread-4  Flow # 6  size:  87654  bytes syn_fct:  5280  get_fct:  5279
+Thread-4  switching off for  907  ms
+Thread-7  Flow # 11  size:  52  bytes syn_fct:  96  get_fct:  96
+Thread-7  switching off for  234  ms
+Thread-6  Flow # 12  size:  700  bytes syn_fct:  104  get_fct:  104
+Thread-6  switching off for  80  ms
+Thread-8  Flow # 14  size:  5703  bytes syn_fct:  449  get_fct:  449
+Thread-8  switching off for  179  ms
+Thread-6  Flow # 13  size:  700  bytes syn_fct:  179  get_fct:  179
+Thread-6  switching off for  380  ms
+Thread-7  Flow # 12  size:  471  bytes syn_fct:  125  get_fct:  125
+Thread-7  switching off for  1  ms
+Thread-0  Flow # 2  size:  93322  bytes syn_fct:  6139  get_fct:  6139
+Thread-0  switching off for  461  ms
+Thread-7  Flow # 13  size:  357  bytes syn_fct:  128  get_fct:  128
+Thread-7  switching off for  606  ms
+Thread-8  Flow # 15  size:  93  bytes syn_fct:  81  get_fct:  81
+Thread-8  switching off for  68  ms
+Thread-8  Flow # 16  size:  1370  bytes syn_fct:  240  get_fct:  240
+Thread-8  switching off for  164  ms
+Thread-6  Flow # 14  size:  142  bytes syn_fct:  140  get_fct:  140
+Thread-6  switching off for  25  ms
+Thread-4  Flow # 7  size:  428  bytes syn_fct:  112  get_fct:  112
+Thread-4  switching off for  360  ms
+Thread-1  Flow # 6  size:  90487  bytes syn_fct:  5292  get_fct:  5292
+Thread-1  switching off for  232  ms
+Thread-6  Flow # 15  size:  498  bytes syn_fct:  144  get_fct:  144
+Thread-6  switching off for  224  ms
+Thread-0  Flow # 3  size:  1481  bytes syn_fct:  147  get_fct:  147
+Thread-0  switching off for  106  ms
+Thread-8  Flow # 17  size:  683  bytes syn_fct:  106  get_fct:  106
+Thread-8  switching off for  27  ms
+Thread-1  Flow # 7  size:  536  bytes syn_fct:  197  get_fct:  197
+Thread-1  switching off for  278  ms
+Thread-6  Flow # 16  size:  1266  bytes syn_fct:  323  get_fct:  323
+Thread-6  switching off for  103  ms
+Thread-4  Flow # 8  size:  3060  bytes syn_fct:  469  get_fct:  469
+Thread-4  switching off for  107  ms
+Thread-1  Flow # 8  size:  315  bytes syn_fct:  92  get_fct:  92
+Thread-1  switching off for  963  ms
+Thread-6  Flow # 17  size:  336  bytes syn_fct:  88  get_fct:  88
+Thread-6  switching off for  125  ms
+Thread-8  Flow # 18  size:  9513  bytes syn_fct:  621  get_fct:  621
+Thread-8  switching off for  147  ms
+Thread-0  Flow # 4  size:  7992  bytes syn_fct:  623  get_fct:  623
+Thread-0  switching off for  163  ms
+Thread-6  Flow # 18  size:  492  bytes syn_fct:  104  get_fct:  104
+Thread-6  switching off for  97  ms
+Thread-8  Flow # 19  size:  678  bytes syn_fct:  113  get_fct:  113
+Thread-8  switching off for  27  ms
+Thread-7  Flow # 14  size:  13896  bytes syn_fct:  922  get_fct:  922
+Thread-7  switching off for  73  ms
+Thread-4  Flow # 9  size:  4679  bytes syn_fct:  252  get_fct:  252
+Thread-4  switching off for  573  ms
+Thread-0  Flow # 5  size:  267  bytes syn_fct:  148  get_fct:  147
+Thread-0  switching off for  35  ms
+Thread-8  Flow # 20  size:  275  bytes syn_fct:  162  get_fct:  162
+Thread-8  switching off for  250  ms
+Thread-6  Flow # 19  size:  548  bytes syn_fct:  142  get_fct:  142
+Thread-6  switching off for  175  ms
+Thread-7  Flow # 15  size:  452  bytes syn_fct:  127  get_fct:  127
+Thread-7  switching off for  586  ms
+Thread-0  Flow # 6  size:  88  bytes syn_fct:  106  get_fct:  106
+Thread-0  switching off for  90  ms
+Thread-6  Flow # 20  size:  259  bytes syn_fct:  135  get_fct:  134
+Thread-6  switching off for  301  ms
+Thread-0  Flow # 7  size:  6881  bytes syn_fct:  437  get_fct:  437
+Thread-0  switching off for  96  ms
+Thread-7  Flow # 16  size:  345  bytes syn_fct:  182  get_fct:  182
+Thread-7  switching off for  28  ms
+Thread-6  Flow # 21  size:  93  bytes syn_fct:  169  get_fct:  169
+Thread-6  switching off for  402  ms
+Thread-1  Flow # 9  size:  4184  bytes syn_fct:  473  get_fct:  473
+Thread-1  switching off for  341  ms
+Thread-7  Flow # 17  size:  375  bytes syn_fct:  181  get_fct:  181
+Thread-7  switching off for  104  ms
+Thread-0  Flow # 8  size:  5867  bytes syn_fct:  534  get_fct:  534
+Thread-0  switching off for  740  ms
+Thread-7  Flow # 18  size:  51  bytes syn_fct:  76  get_fct:  76
+Thread-7  switching off for  319  ms
+Thread-6  Flow # 22  size:  133  bytes syn_fct:  147  get_fct:  146
+Thread-6  switching off for  728  ms
+Thread-7  Flow # 19  size:  163  bytes syn_fct:  149  get_fct:  149
+Thread-7  switching off for  5  ms
+Thread-7  Flow # 20  size:  872  bytes syn_fct:  174  get_fct:  174
+Thread-7  switching off for  44  ms
+Thread-0  Flow # 9  size:  468  bytes syn_fct:  119  get_fct:  119
+Thread-0  switching off for  370  ms
+Thread-7  Flow # 21  size:  2199  bytes syn_fct:  184  get_fct:  184
+Thread-7  switching off for  253  ms
+Thread-6  Flow # 23  size:  2924  bytes syn_fct:  199  get_fct:  199
+Thread-6  switching off for  517  ms
+Thread-7  Flow # 22  size:  838  bytes syn_fct:  147  get_fct:  147
+Thread-7  switching off for  118  ms
+Thread-0  Flow # 10  size:  794  bytes syn_fct:  139  get_fct:  139
+Thread-0  switching off for  43  ms
+Thread-7  Flow # 23  size:  76  bytes syn_fct:  121  get_fct:  121
+Thread-7  switching off for  69  ms
+Thread-7  Flow # 24  size:  401  bytes syn_fct:  140  get_fct:  140
+Thread-7  switching off for  289  ms
+Thread-6  Flow # 24  size:  312  bytes syn_fct:  133  get_fct:  133
+Thread-6  switching off for  228  ms
+Thread-7  Flow # 25  size:  409  bytes syn_fct:  160  get_fct:  160
+Thread-7  switching off for  134  ms
+Thread-0  Flow # 11  size:  7295  bytes syn_fct:  1035  get_fct:  1035
+Thread-0  switching off for  409  ms
+Thread-7  Flow # 26  size:  1046  bytes syn_fct:  165  get_fct:  165
+Thread-7  switching off for  778  ms
+Thread-6  Flow # 25  size:  7505  bytes syn_fct:  590  get_fct:  590
+Thread-6  switching off for  112  ms
+Thread-6  Flow # 26  size:  11239  bytes syn_fct:  1007  get_fct:  1007
+Thread-6  switching off for  41  ms
+Thread-6  Flow # 27  size:  360  bytes syn_fct:  129  get_fct:  129
+Thread-6  switching off for  446  ms
+Thread-6  Flow # 28  size:  5445  bytes syn_fct:  472  get_fct:  472
+Thread-6  switching off for  12  ms
+Thread-6  Flow # 29  size:  375  bytes syn_fct:  129  get_fct:  129
+Thread-6  switching off for  386  ms
+Thread-6  Flow # 30  size:  2800  bytes syn_fct:  511  get_fct:  511
+Thread-6  switching off for  229  ms
+Thread-6  Flow # 31  size:  206  bytes syn_fct:  132  get_fct:  131
+Thread-6  switching off for  156  ms
+Thread-1  Flow # 10  size:  98656  bytes syn_fct:  7437  get_fct:  7437
+Thread-1  switching off for  113  ms
+Thread-1  Flow # 11  size:  401  bytes syn_fct:  169  get_fct:  169
+Thread-1  switching off for  519  ms
+Thread-1  Flow # 12  size:  784  bytes syn_fct:  140  get_fct:  140
+Thread-1  switching off for  160  ms
+Thread-1  Flow # 13  size:  256  bytes syn_fct:  180  get_fct:  179
+Thread-1  switching off for  113  ms
+Thread-1  Flow # 14  size:  1244  bytes syn_fct:  286  get_fct:  285
+Thread-1  switching off for  176  ms
+Thread-1  Flow # 15  size:  141  bytes syn_fct:  144  get_fct:  144
+Thread-1  switching off for  517  ms
+Thread-8  Flow # 21  size:  138917  bytes syn_fct:  10608  get_fct:  10608
+Thread-8  switching off for  257  ms
+Thread-1  Flow # 16  size:  646  bytes syn_fct:  152  get_fct:  152
+Thread-1  switching off for  292  ms
+Thread-1  Flow # 17  size:  401  bytes syn_fct:  207  get_fct:  207
+Thread-1  switching off for  281  ms
+Thread-1  Flow # 18  size:  20354  bytes syn_fct:  1697  get_fct:  1697
+Thread-1  switching off for  1193  ms
+Thread-7  Flow # 27  size:  136580  bytes syn_fct:  10212  get_fct:  10212
+Thread-7  switching off for  324  ms
+Thread-0  Flow # 12  size:  129398  bytes syn_fct:  11030  get_fct:  11030
+Thread-0  switching off for  19  ms
+Thread-7  Flow # 28  size:  403  bytes syn_fct:  155  get_fct:  155
+Thread-7  switching off for  144  ms
+Thread-1  Flow # 19  size:  370  bytes syn_fct:  147  get_fct:  146
+Thread-1  switching off for  17  ms
+Thread-7  Flow # 29  size:  369  bytes syn_fct:  195  get_fct:  195
+Thread-7  switching off for  1103  ms
+Thread-0  Flow # 13  size:  6095  bytes syn_fct:  540  get_fct:  540
+Thread-0  switching off for  404  ms
+Thread-0  Flow # 14  size:  1811  bytes syn_fct:  255  get_fct:  255
+Thread-0  switching off for  331  ms
+Thread-8  Flow # 22  size:  69657  bytes syn_fct:  5471  get_fct:  5471
+Thread-8  switching off for  55  ms
+Thread-7  Flow # 30  size:  282  bytes syn_fct:  96  get_fct:  96
+Thread-7  switching off for  266  ms
+Thread-0  Flow # 15  size:  836  bytes syn_fct:  128  get_fct:  128
+Thread-0  switching off for  216  ms
+Thread-7  Flow # 31  size:  663  bytes syn_fct:  132  get_fct:  132
+Thread-7  switching off for  20  ms
+Thread-0  Flow # 16  size:  88  bytes syn_fct:  165  get_fct:  164
+Thread-0  switching off for  47  ms
+Thread-7  Flow # 32  size:  478  bytes syn_fct:  129  get_fct:  129
+Thread-7  switching off for  111  ms
+Thread-0  Flow # 17  size:  986  bytes syn_fct:  172  get_fct:  172
+Thread-0  switching off for  416  ms
+Thread-7  Flow # 33  size:  919  bytes syn_fct:  108  get_fct:  108
+Thread-7  switching off for  279  ms
+Thread-7  Flow # 34  size:  629  bytes syn_fct:  140  get_fct:  140
+Thread-7  switching off for  127  ms
+Thread-0  Flow # 18  size:  185  bytes syn_fct:  133  get_fct:  133
+Thread-0  switching off for  1144  ms
+Thread-7  Flow # 35  size:  279  bytes syn_fct:  162  get_fct:  162
+Thread-7  switching off for  100  ms
+Thread-7  Flow # 36  size:  520  bytes syn_fct:  130  get_fct:  130
+Thread-7  switching off for  236  ms
+Thread-7  Flow # 37  size:  3556  bytes syn_fct:  482  get_fct:  481
+Thread-7  switching off for  987  ms
+Thread-0  Flow # 19  size:  299  bytes syn_fct:  134  get_fct:  134
+Thread-0  switching off for  6  ms
+Thread-0  Flow # 20  size:  3540  bytes syn_fct:  492  get_fct:  492
+Thread-0  switching off for  253  ms
+Thread-7  Flow # 38  size:  102  bytes syn_fct:  203  get_fct:  203
+Thread-7  switching off for  350  ms
+Thread-0  Flow # 21  size:  14281  bytes syn_fct:  1476  get_fct:  1476
+Thread-0  switching off for  329  ms
+Thread-0  Flow # 22  size:  86  bytes syn_fct:  201  get_fct:  201
+Thread-0  switching off for  761  ms
+Thread-7  Flow # 39  size:  40477  bytes syn_fct:  2967  get_fct:  2967
+Thread-7  switching off for  35  ms
+Thread-7  Flow # 40  size:  5227  bytes syn_fct:  445  get_fct:  444
+Thread-7  switching off for  24  ms
+Thread-7  Flow # 41  size:  60  bytes syn_fct:  187  get_fct:  186
+Thread-7  switching off for  475  ms
+Thread-7  Flow # 42  size:  2071  bytes syn_fct:  273  get_fct:  272
+Thread-7  switching off for  945  ms
+Thread-7  Flow # 43  size:  952  bytes syn_fct:  125  get_fct:  125
+Thread-7  switching off for  215  ms
+Thread-7  Flow # 44  size:  282  bytes syn_fct:  144  get_fct:  144
+Thread-7  swi
