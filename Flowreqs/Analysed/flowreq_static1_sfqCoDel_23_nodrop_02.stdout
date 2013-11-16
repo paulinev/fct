@@ -3597,4 +3597,3 @@ Thread-5  Flow # 179  size:  66969  bytes syn_fct:  297  get_fct:  297
 Thread-5  switching off for  753  ms
 Thread-4  Flow # 179  size:  21079  bytes syn_fct:  147  get_fct:  147
 Thread-4  switching off for  238  ms
-Thread-6  Flow # 169  size:  293873  b
